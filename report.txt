@@ -1,0 +1,20 @@
+Classification report for training data:
+
+- Report:
+             precision    recall  f1-score   support
+
+    nonface       1.00      1.00      1.00       400
+       face       1.00      1.00      1.00       400
+
+avg / total       1.00      1.00      1.00       800
+
+Classification report for test data:
+
+- Report:
+             precision    recall  f1-score   support
+
+    nonface       0.97      0.98      0.98       100
+       face       0.98      0.97      0.97       100
+
+avg / total       0.98      0.97      0.97       200
+ 
